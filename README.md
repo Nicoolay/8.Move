@@ -5,6 +5,8 @@
 std::vector <std::string> one = { "test_string1", "test_string2" };
 std::vector <std::string> two;
 move_vectors(...)
+
+
 Задача 2. Большие числа
 Описание
 Вам нужно реализовать класс для работы с большими числами, которые не помещаются в стандартные типы данных.
